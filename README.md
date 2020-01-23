@@ -24,3 +24,7 @@ As well as being able to develop a solution, we can provide the technical knowle
 ### Contact Us
 
 Not sure what Revolution AI can do to revolutionise your business? Send us an email at [enquiries@revolutionai.com] and tell us a bit about your company and what you want to do and we'll get back in touch with an outline of where you might be looking and if you think these are areas you may want to explore we can arrange a consultation to look at your needs in greater depth. 
+
+### About Us
+
+This is the high-tech consulting arm of Grid5 Ltd, a development consultancy that has been running since 2012. Our team are all highly experienced in IT and have a range of experience covering all aspects of development and support from a range of market sectors. Previous clients include Barclays, Tesco and Reuters. 
